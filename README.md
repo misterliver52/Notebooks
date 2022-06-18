@@ -12,3 +12,9 @@ Databricks Notebooks
 
   ## Curated Delta
   update changes in data lake from flat file feeds
+
+  ## Curated Full Snapshot
+  baseline extract from benchmark extract
+  
+  ## Curated Delta Snapshot
+  daily snapshot of as-is leveraging benchmark and all changes up to date
